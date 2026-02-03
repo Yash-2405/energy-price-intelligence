@@ -130,7 +130,7 @@ SELECT * FROM energy_prices;
 
 ---
 
-### 🎥 Demo Video
+### 🎥 **[Watch Demo](https://drive.google.com/file/d/1P1pdrKHy41hX_GdLUhorhhx3CgEBTX1M/view?usp=sharing)** 
 
 A short project execution demo is included in the repository:
 
@@ -166,4 +166,4 @@ Expand ingestion pipeline for additional commodity instruments
 
 ## 👤 Author
 
-Yash V
+Yash V - [LinkedIn](https://www.linkedin.com/in/yash-v-/), [GitHub](https://github.com/Yash-2405).
