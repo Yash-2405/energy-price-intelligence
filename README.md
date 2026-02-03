@@ -91,7 +91,7 @@ pip install -r requirements.txt
 ```bash
 CREATE DATABASE energydb;
 ```
-## Update the .env file:
+### Update the .env file:
 ```bash
 DB_USER=username
 DB_PASSWORD=your password
@@ -106,7 +106,7 @@ DB_NAME=energydb
 ```bash
 python -m uvicorn app.main:app --reload
 ```
-## Server will start at:
+### Server will start at:
 ```bash
 http://127.0.0.1:8000
 ```
@@ -114,7 +114,7 @@ http://127.0.0.1:8000
 ---
 
 ### 6. Swagger API Docs
-## Open:
+### Open:
 ```bash
 http://127.0.0.1:8000/docs
 ```
