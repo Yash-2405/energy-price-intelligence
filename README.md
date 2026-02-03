@@ -42,6 +42,7 @@ This project simulates a real-world commodity market intelligence workflow align
 ## 📂 Project Architecture
 
 backend/app/
+
 │
 ├── main.py # FastAPI entry point
 ├── core/
