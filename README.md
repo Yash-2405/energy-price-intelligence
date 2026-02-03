@@ -41,24 +41,7 @@ This project simulates a real-world commodity market intelligence workflow align
 
 ## 📂 Project Architecture
 
-backend/app/
-
-│
-├── main.py # FastAPI entry point
-├── core/
-│ ├── config.py # Environment config
-│ └── database.py # DB session + engine
-│
-├── models/
-│ └── energy_price.py # PostgreSQL table schema
-│
-├── services/
-│ ├── ingestion_service.py # Price ingestion logic
-│ ├── analytics_service.py # Spike detection engine
-│ └── price_fetcher.py # External market price fetch
-│
-└── api/
-└── routes.py # API routes  
+<img width="453" height="434" alt="{09D071DB-B14A-4771-BAAB-6A12348E29BF}" src="https://github.com/user-attachments/assets/8b35c4b1-ec5f-4ddf-848e-76d8a168afa7" />
 
 ---
 
